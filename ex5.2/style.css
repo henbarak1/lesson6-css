@@ -1,0 +1,17 @@
+
+.Card {
+box-shadow: 0 5px 87px 0 rgba(0, 0, 0, 0.103);
+background-color: bisque;
+width: fit-content;
+border-radius:  10px; 
+}
+
+
+.golanImg{
+    border-radius:  10px; ;
+
+}
+
+
+
+
